@@ -18,7 +18,7 @@
     "react-hot-toast": "^2.5.1"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3",
+    "@eslint/eslintrc": "1.4.0",
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
     "postcss": "^8",
