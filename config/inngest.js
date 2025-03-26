@@ -6,7 +6,7 @@ import User from "models/User";
 export const inngest = new Inngest({ id: "quickcart-next" });
 
 // Création d'un client pour envoyer et recevoir des événements
-export const ingest = new Ingest({ id: "quickcart-next" });
+export const ingest = new Inngest({ id: "quickcart-next" });
 
 // Fonction pour synchroniser et sauvegarder les données utilisateur dans la base de données
 export const syncUserCreation = ingest.createFunction(
